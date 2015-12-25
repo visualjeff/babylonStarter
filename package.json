@@ -1,0 +1,22 @@
+{
+  "name": "babylonStarter",
+  "version": "0.0.1",
+  "description": "Simple setup for starting a babylon app",
+  "main": "app.js",
+  "scripts": {
+    "serve: node server.js",
+    "run: node server.js",   
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/visualjeff/babylonStarter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "8924dcf29786dcd6e7a16ea3edb5cbce33a4d573",
+  "bugs": {
+    "url": "https://github.com/visualjeff/babylonStarter/issues"
+  }
+}
