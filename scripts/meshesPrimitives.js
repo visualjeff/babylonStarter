@@ -19,7 +19,7 @@ function startBabylonJS() {
 
         camera.attachControl(canvas, false);
 
-        var light = new BABYLON.HemisphericLight("hemi", new BABYLON.Vector3(0, 1, 0), scene);
+        var light = new BABYLON.HemisphericLight("hemi", new BABYLON.Vector3(1, 1, 0), scene);
 
         //Creation of a box
         //(name of the box, size, scene)
